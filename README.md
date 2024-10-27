@@ -1,9 +1,8 @@
 # Khiem_T4C3
-# 👥Giới thiệu Nhóm Dự Án:
+# 👥 Cấu trúc nhóm:
 
 Nhóm của chúng tôi gồm 6 thành viên, với các vai trò và kỹ năng đa dạng, nhưng có một điểm chung quan trọng: tinh thần hợp tác. Mặc dù đây là lần đầu tiên chúng tôi làm việc chung, nhưng mọi người đều rất tích cực, nhiệt huyết và luôn sẵn sàng hỗ trợ lẫn nhau.
 
-🧑‍💼 Cấu trúc nhóm:
 Leader: Anh Dương Duy Khiêm
 
 Scrum Master: Phan Giang Bảo Ngọc 
@@ -35,4 +34,8 @@ Xem lịch trình: Cung cấp thông tin lịch trình tàu, giúp người dùn
 Thanh toán trực tuyến: Thanh toán nhanh chóng, an toàn thông qua các nền tảng tích hợp.
 Dự án không chỉ là một bản mô phỏng mà còn thể hiện đầy đủ các chức năng của một hệ thống thực, mang lại trải nghiệm tiện lợi, chuyên nghiệp và hiện đại cho người dùng.
 
+# 🔧Languages and Tools
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase]
+
 Chúng tôi hy vọng rằng đây sẽ là bước khởi đầu cho những lần hợp tác tiếp theo, giúp cả nhóm phát triển và hoàn thiện kỹ năng cũng như tạo ra nhiều sản phẩm chất lượng trong tương lai.
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase]
