@@ -40,4 +40,17 @@ Dự án không chỉ là mô phỏng mà còn là một bản đầy đủ về
 # 📈 Kế hoạch phát triển
 Chúng tôi dự định sẽ tiếp tục cải thiện và bổ sung thêm tính năng như phân tích dữ liệu người dùng để cung cấp trải nghiệm tốt hơn, phát triển tính năng đặt vé nhóm và tối ưu hóa giao diện người dùng.
 
+# 📹 Kênh ghi lại cuộc họp nhóm
+
+Trong suốt quá trình phát triển dự án, chúng tôi đã tổ chức các buổi họp nhóm định kỳ để trao đổi ý tưởng, cập nhật tiến độ và cùng nhau giải quyết các vấn đề phát sinh. Đây là những cơ hội quan trọng để nhóm duy trì sự đồng bộ và đảm bảo mọi người đều hướng tới mục tiêu chung. Bạn có thể xem lại các buổi họp qua các liên kết dưới đây:
+
+- [Cuộc họp 1](https://youtu.be/QN5FxiwhxYI): Thảo luận về kế hoạch ban đầu, phân chia nhiệm vụ và xác định mục tiêu chính của dự án.
+- [Cuộc họp 2](https://youtu.be/NyhK9OcTeNE): Chia sprint 1 và phân bổ công việc chi tiết cho từng thành viên.
+- [Cuộc họp 3](https://youtu.be/NyhK9OcTeNE): Đánh giá tiến độ sprint 1 và chia srint 2.
+- [Cuộc họp 4](https://youtu.be/NyhK9OcTeNE): Buổi họp Daily Scrum để cập nhật công việc hàng ngày và nhanh chóng giải quyết các thách thức.
+
+Các buổi họp không chỉ giúp nhóm duy trì tiến độ mà còn là dịp để từng thành viên đóng góp ý tưởng, tìm ra giải pháp sáng tạo và cải thiện quy trình làm việc.
+
+
+
 
