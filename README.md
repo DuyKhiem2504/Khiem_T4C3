@@ -1,41 +1,43 @@
-# Khiem_T4C3
-# 👥 Cấu trúc nhóm:
+# ☠️👾☠️ Cấu trúc nhóm:
 
-Nhóm của chúng tôi gồm 6 thành viên, với các vai trò và kỹ năng đa dạng, nhưng có một điểm chung quan trọng: tinh thần hợp tác. Mặc dù đây là lần đầu tiên chúng tôi làm việc chung, nhưng mọi người đều rất tích cực, nhiệt huyết và luôn sẵn sàng hỗ trợ lẫn nhau.
+Nhóm chúng tôi gồm 6 thành viên với những vai trò và kỹ năng đa dạng, mang đến tinh thần hợp tác cao. Mặc dù là lần đầu tiên làm việc chung, nhưng mọi người đều tích cực, nhiệt huyết và sẵn sàng hỗ trợ nhau để đạt được mục tiêu.
 
-Leader: Anh Dương Duy Khiêm
+**Leader**: Anh Dương Duy Khiêm - Chịu trách nhiệm chỉ đạo, đưa ra định hướng và đảm bảo tiến độ của dự án.
 
-Scrum Master: Phan Giang Bảo Ngọc 
+**Scrum Master**: Phan Giang Bảo Ngọc - Quản lý tiến độ, duy trì lịch trình và tổ chức các buổi họp định kỳ để tối ưu hóa hiệu suất làm việc nhóm.
 
-Developer Team: 4 thành viên là các lập trình viên tài năng.
-
+**Developer Team**: 4 thành viên tài năng với sự chuyên sâu về phát triển tính năng và giải quyết các vấn đề kỹ thuật:
 - Võ Quốc Đẩu
 - Hồ Trần Anh Quang
 - Phan Phước Toàn
 - Lê Phan Hoàng Long
-  
-Nhờ vào sự phối hợp nhịp nhàng giữa các thành viên, chúng tôi đã cùng nhau vượt qua những thử thách ban đầu và đạt được sự tiến bộ đáng kể trong dự án. Chúng tôi luôn đặt tinh thần đội nhóm lên hàng đầu và không ngừng học hỏi từ nhau để phát triển.
-Tôi mong rằng đây chỉ là bước khởi đầu cho những lần hợp tác tiếp theo của chúng tôi, và chúng tôi sẽ còn cơ hội cùng nhau phát triển và hoàn thiện trong tương lai.
+
+Nhờ sự phối hợp nhịp nhàng và tinh thần học hỏi lẫn nhau, chúng tôi đã cùng nhau vượt qua nhiều thử thách trong dự án. Chúng tôi hy vọng đây chỉ là bước khởi đầu cho những lần hợp tác sắp tới, giúp nhóm tiếp tục phát triển kỹ năng và tạo ra những sản phẩm chất lượng hơn.
 
 # 🎯 Dự án: Bán Vé Tàu Thủy
-Dự án Bán Vé Tàu Thủy là một ứng dụng bán vé tàu thủy mô phỏng hệ thống bán vé của Sài Gòn Water Bus, với mục tiêu cải thiện và tối ưu hóa trải nghiệm người dùng khi đặt vé tàu.
+Dự án Bán Vé Tàu Thủy là ứng dụng bán vé tàu thủy mô phỏng hệ thống bán vé của Sài Gòn Water Bus, với mục tiêu tối ưu hóa trải nghiệm người dùng khi đặt vé.
 
-Mục tiêu chính:
-Cung cấp một ứng dụng trực quan, dễ sử dụng cho người dùng.
-Tích hợp thanh toán tiện lợi qua Zalo Pay và Google Pay để tăng cường trải nghiệm mua vé.
-Mô phỏng hoàn chỉnh các chức năng của một hệ thống bán vé thực tế với các tính năng như đặt vé, xem lịch trình và thanh toán an toàn.
-Công nghệ sử dụng:
-Trình phát triển: Visual Studio Code
-Dữ liệu: Filebase
-Các phương thức thanh toán: Zalo Pay, Google Pay
-Tính năng nổi bật:
-Đặt vé trực tuyến: Người dùng dễ dàng đặt vé qua giao diện thân thiện.
-Xem lịch trình: Cung cấp thông tin lịch trình tàu, giúp người dùng có thể dễ dàng theo dõi.
-Thanh toán trực tuyến: Thanh toán nhanh chóng, an toàn thông qua các nền tảng tích hợp.
-Dự án không chỉ là một bản mô phỏng mà còn thể hiện đầy đủ các chức năng của một hệ thống thực, mang lại trải nghiệm tiện lợi, chuyên nghiệp và hiện đại cho người dùng.
+## Mục tiêu chính:
+- Cung cấp một ứng dụng trực quan, dễ sử dụng cho người dùng.
+- Tích hợp thanh toán tiện lợi qua Zalo Pay và Google Pay để tăng trải nghiệm mua vé.
+- Mô phỏng hoàn chỉnh các chức năng của một hệ thống bán vé thực tế: đặt vé, xem lịch trình và thanh toán an toàn.
 
-# 🔧Languages and Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase]
+## Công nghệ sử dụng:
+- **Trình phát triển**: Visual Studio Code
+- **Dữ liệu**: Filebase
+- **Thanh toán**: Zalo Pay, Google Pay
 
-Chúng tôi hy vọng rằng đây sẽ là bước khởi đầu cho những lần hợp tác tiếp theo, giúp cả nhóm phát triển và hoàn thiện kỹ năng cũng như tạo ra nhiều sản phẩm chất lượng trong tương lai.
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase]
+## Tính năng nổi bật:
+- **Đặt vé trực tuyến**: Đặt vé qua giao diện thân thiện.
+- **Xem lịch trình**: Cung cấp thông tin lịch trình tàu để tiện theo dõi.
+- **Thanh toán trực tuyến**: Thanh toán nhanh chóng, an toàn qua các nền tảng tích hợp.
+
+Dự án không chỉ là mô phỏng mà còn là một bản đầy đủ về các chức năng của hệ thống thực tế, mang lại trải nghiệm tiện lợi, chuyên nghiệp và hiện đại.
+
+# 🛠 Kỹ năng và Công cụ sử dụng
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+
+# 📈 Kế hoạch phát triển
+Chúng tôi dự định sẽ tiếp tục cải thiện và bổ sung thêm tính năng như phân tích dữ liệu người dùng để cung cấp trải nghiệm tốt hơn, phát triển tính năng đặt vé nhóm và tối ưu hóa giao diện người dùng.
+
+
